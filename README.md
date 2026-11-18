@@ -1,7 +1,9 @@
 # The World in One Picture — Wednesday 18 November 2026
 
 A one-image front page summing up the world news of **Wednesday 18 November 2026**,
-entered in make.fun's [News Image 18 Nov](https://make.fun) competition.
+entered in make.fun's News Image competition for that day. Version 2: a denser
+front page in the style of the boards' leading entries — **36 stories, six
+continents, one page**, with a dot-matrix world map and a day-in-figures box.
 
 ![Competition](https://make.fun/badge/news-image-20261118.svg)
 ![Rank](https://make.fun/badge/news-image-20261118/Shadowcell05/news-image-20261118/rank.svg)
@@ -9,13 +11,19 @@ entered in make.fun's [News Image 18 Nov](https://make.fun) competition.
 
 ## What's in the picture
 
-- **Lead:** APEC opens in Shenzhen — Xi urges free, open trade; Putin has landed
-  and Trump is due, ahead of Thursday's first Trump–Xi–Putin trilateral.
-- The US destroys five Iranian oil tankers; Kyiv peace talks run while strikes
-  go on; COP31 climate talks enter their final week in Antalya.
-- North Korea fires a missile; Prague marches for free media — plus an In Brief
-  strip (Siberia plane crash, supermarket freezer cyber-attack, Estonia border,
-  Gaza winter warning).
+- **Lead:** APEC opens in Shenzhen — Xi urges open trade, Putin has landed,
+  Trump is due, and a first Trump–Xi–Putin trilateral is set for Thursday.
+- **Also on the front page:** the US destroys 5 Iranian tankers as oil tops $100;
+  Kyiv peace talks while the Kerch Bridge stays shut; North Korea fires a
+  ballistic missile toward the Sea of Japan.
+- **Front page grid, by continent:** UK inflation climbs to 3.6%, the EU proposes
+  a €45bn loan for Ukraine, Indonesia and China sign $71.8bn in deals, COP31
+  enters its final week, Anthropic prices a $1.4 trillion IPO, a Kenyan cult
+  leader is jailed for 200 years, Fiji declares a drought disaster — and more.
+- **The day in figures:** oil above $100, 1.7M displaced in Gaza, $71.8B in
+  Indonesia–China deals, 80 backers for the COP31 AI pledge.
+- **In brief:** the supermarket-freezer cyber-attack, Estonia's border closure,
+  Voyager 1 at 25.9 billion km, Nigeria's state police bill.
 
 ## How it runs
 
